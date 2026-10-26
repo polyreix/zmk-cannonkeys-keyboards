@@ -8,24 +8,10 @@ Please refer to the board notes below to ensure you use the correct firmware.
 
 ## Board Notes
 
-###  Bakeneko Go
+###  Bakeneko GO (2025)
 
-- For the first run of Bakeneko GO - purchased in 2024 - please use the Bakeneko60 GO firmware. This PCB only supports 6.25U bottom row.
-
-- For subsequent runs of Bakeneko Go - purchased in 2025 or later, please use the CK60_W firmware. This PCB supports both 6.25U and 7U bottom row.
+Please use the CK60_W firmware
 
 ###  Vida
 
 Please use the CK60_W firmware
-
-### Reverie, Brutal65 v2, Bakeneko65
-
-Please use the CK65_W firmware
-
-### Cerberus
-
-Please use the Cerberus firmware
-
-### Photon
-
-Please use the Photon firmware

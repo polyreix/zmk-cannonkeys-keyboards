@@ -1,8 +1,8 @@
 # CK60 Wireless
 
 This PCB is currently used for the following boards:
+- Bakeneko GO (2025)
 - Vida
-- Bakeneko GO (Purchased in 2025 or later)
 
 ## Soft off functionality
 
