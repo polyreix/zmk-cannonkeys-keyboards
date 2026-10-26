@@ -4,7 +4,7 @@
 if BOARD_CK60_W
 
 config ZMK_KEYBOARD_NAME
-    default "CK60 W"
+    default "CK60"
 
 if USB_DEVICE_STACK
 
